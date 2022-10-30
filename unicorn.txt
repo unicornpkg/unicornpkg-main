@@ -21,6 +21,7 @@ musicify
 reactorcontrol
 semver
 tar
+unix-path-bootstrap
 unxz
 vericode
 yahtcc
