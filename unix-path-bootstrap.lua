@@ -1,4 +1,4 @@
-shell.run("mkdir /startup")
+fs.makeDir("/startup")
 
 local package = {}
 package.name = "unix-path-bootstrap"
