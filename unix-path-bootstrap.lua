@@ -1,3 +1,8 @@
+local fs = fs
+if _HOST:find("Recrafted") then
+	fs = require("fs")
+end
+
 fs.makeDir("/startup")
 
 local package = {}
