@@ -25,4 +25,4 @@ unix-path-bootstrap
 unxz
 vericode
 yahtcc
-youcube-client
+youcube-library

@@ -1,5 +1,5 @@
 local package = {}
-package.name = "youcube-client"
+package.name = "youcube-library"
 package.instdat = {}
 package.instdat.repo_owner = "knijn"
 package.instdat.repo_name = "musicify"

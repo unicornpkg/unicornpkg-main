@@ -8,7 +8,7 @@ package.instdat.filemaps = {}
 package.instdat.filemaps["musicify.lua"] = "/bin/musicify.lua"
 package.rel.depends = {
 	"semver",
-	"youcube-client"
+	"youcube-library"
 }
 package.pkgType = "com.github"
 package.unicornSpec = "v1.0.0"
