@@ -6,6 +6,7 @@ package.instdat.repo_name = "musicify"
 package.instdat.repo_ref = "main"
 package.instdat.filemaps = {}
 package.instdat.filemaps["musicify.lua"] = "/bin/musicify.lua"
+package.rel = {}
 package.rel.depends = {
 	"semver",
 	"youcube-library"
