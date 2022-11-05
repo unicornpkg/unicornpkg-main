@@ -10,3 +10,5 @@ package.pkgType = "com.github"
 package.unicornSpec = "v1.0.0"
 
 return package
+
+fs.copy("/lib/youcube.lua", "/lib/youcubeapi.lua")
