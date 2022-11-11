@@ -1,9 +1,10 @@
 local package = {}
 package.name = "musicify"
+package.version = "2.4.0"
 package.instdat = {}
 package.instdat.repo_owner = "knijn"
 package.instdat.repo_name = "musicify"
-package.instdat.repo_ref = "main"
+package.instdat.repo_ref = "2.4.0"
 package.instdat.filemaps = {}
 package.instdat.filemaps["musicify.lua"] = "/bin/musicify.lua"
 package.rel = {}
