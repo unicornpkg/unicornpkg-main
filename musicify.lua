@@ -1,3 +1,5 @@
+-- https://github.com/knijn/musicify
+
 local package = {}
 package.name = "musicify"
 package.version = "2.4.0"
@@ -10,7 +12,8 @@ package.instdat.filemaps["musicify.lua"] = "/bin/musicify.lua"
 package.rel = {}
 package.rel.depends = {
 	"semver",
-	"youcube-library"
+	"youcubeapi",
+	"basalt"
 }
 package.pkgType = "com.github"
 package.unicornSpec = "v1.0.0"

@@ -1,0 +1,18 @@
+-- https://github.com/Pyroxenium/Basalt/
+
+-- TODO: [Github releases provider](https://github.com/unicornpkg/wing/issues/7)
+-- https://github.com/Pyroxenium/Basalt/releases/download/v1.6.3/basalt.lua
+
+local package = {}
+package.name = "basalt"
+package.version = "1.6.3"
+package.instdat = {}
+package.instdat.repo_owner = "pyroxenium"
+package.instdat.repo_name = "basalt"
+package.instdat.repo_ref = "1.6.3"
+package.instdat.filemaps = {}
+package.instdat.filemaps["basalt.lua"] = "/lib/basalt.lua"
+package.pkgType = "com.github" -- TODO: Change to Github releases provider
+package.unicornSpec = "v1.0.0"
+
+return package
