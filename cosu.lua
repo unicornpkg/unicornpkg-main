@@ -1,5 +1,6 @@
 local package = {}
 package.name = "cosu"
+package.desc = "Modular text editor for ComputerCraft"
 package.version = "1.4.3"
 package.instdat = {}
 package.instdat.repo_owner = "1Turtle"

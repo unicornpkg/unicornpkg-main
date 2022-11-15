@@ -1,5 +1,6 @@
 local package = {}
 package.name = "modemshark"
+package.desc = "TUI tool for sniffing wireless modem packets"
 package.instdat = {}
 package.instdat.repo_owner = "MCJack123"
 package.instdat.repo_name = "56ca71555d9c0f78d4c985f1e9ad28e8"

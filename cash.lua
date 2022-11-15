@@ -1,5 +1,6 @@
 local package = {}
 package.name = "cash"
+package.desc = "Bourne-compatible shell for ComputerCraft"
 package.version = "0.3.0"
 package.instdat = {}
 package.instdat.repo_owner = "MCJack123"

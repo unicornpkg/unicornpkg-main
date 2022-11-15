@@ -7,6 +7,7 @@ fs.makeDir("/startup")
 
 local package = {}
 package.name = "unix-path-bootstrap"
+package.desc = "Adds /bin to the shell's path and /usr/share/help to the help path."
 package.instdat = {}
 package.instdat.repo_owner = "Tomodachi94"
 package.instdat.repo_name = "57b52cef2ad117c0b4130429dc80964a"

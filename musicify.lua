@@ -1,5 +1,6 @@
 local package = {}
 package.name = "musicify"
+package.desc = "Program which streams music from a server onto a CC speaker"
 package.version = "2.4.0"
 package.instdat = {}
 package.instdat.repo_owner = "knijn"
