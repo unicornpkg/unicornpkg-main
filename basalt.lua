@@ -1,6 +1,6 @@
 -- https://github.com/Pyroxenium/Basalt/
 
--- TODO: [Github releases provider](https://github.com/unicornpkg/wing/issues/7)
+-- TODO: [Github releases provider](https://github.com/unicornpkg/libunicornpkg/issues/25)
 -- https://github.com/Pyroxenium/Basalt/releases/download/v1.6.3/basalt.lua
 
 local package = {}
