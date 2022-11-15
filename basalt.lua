@@ -5,6 +5,7 @@
 
 local package = {}
 package.name = "basalt"
+package.desc = "UI Framework for CC:Tweaked"
 package.version = "1.6.3"
 package.instdat = {}
 package.instdat.repo_owner = "Pyroxenium"

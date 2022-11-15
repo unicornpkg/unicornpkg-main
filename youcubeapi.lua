@@ -2,6 +2,7 @@
 
 local package = {}
 package.name = "youcubeapi"
+package.desc = "Library for communication with YouCube servers"
 package.instdat = {}
 package.instdat.repo_owner = "Commandcracker"
 package.instdat.repo_name = "YouCube"

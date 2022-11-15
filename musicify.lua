@@ -2,7 +2,7 @@
 
 local package = {}
 package.name = "musicify"
-package.desc = "Program which streams music from a server onto a CC speaker"
+package.desc = "Client for song repositories"
 package.version = "2.5.0"
 package.instdat = {}
 package.instdat.repo_owner = "knijn"

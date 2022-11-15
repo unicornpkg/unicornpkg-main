@@ -1,6 +1,7 @@
 -- https://github.com/Commandcracker/YouCube
 local package = {}
 package.name = "youcube"
+package.desc = "Official YouCube client for accessing media from services like YouTube"
 package.instdat = {}
 package.instdat.repo_owner = "Commandcracker"
 package.instdat.repo_name = "YouCube"
