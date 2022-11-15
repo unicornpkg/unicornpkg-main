@@ -3,7 +3,7 @@
 local package = {}
 package.name = "youcubeapi"
 package.instdat = {}
-package.instdat.repo_owner = "commandcracker"
+package.instdat.repo_owner = "Commandcracker"
 package.instdat.repo_name = "youcube"
 package.instdat.repo_ref = "main"
 package.instdat.filemaps = {}
