@@ -1,5 +1,6 @@
 local package = {}
 package.name = "bed"
+package.desc = "Binary editor for ComputerCraft"
 package.instdat = {}
 package.instdat.repo_owner = "simadude"
 package.instdat.repo_name = "bedcc"

@@ -1,5 +1,6 @@
 local package = {}
 package.name = "lsh"
+package.desc = "Lyqyd's custom ComputerCraft shell"
 package.instdat = {}
 package.instdat.repo_owner = "lyqyd"
 package.instdat.repo_name = "cc-lsh"

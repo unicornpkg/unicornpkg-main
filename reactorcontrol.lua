@@ -1,5 +1,6 @@
 local package = {}
 package.name = "reactorcontrol"
+package.desc = "Automatic control for a Big Reactor"
 package.instdat = {}
 package.instdat.filemaps = {}
 package.instdat.filemaps.RCPEHmxs = "/bin/reactorcontrol"

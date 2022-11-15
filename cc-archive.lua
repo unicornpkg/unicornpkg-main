@@ -1,5 +1,6 @@
 local package = {}
 package.name = "aukit"
+package.desc = "Libraries for processing compression formats"
 package.instdat = {}
 package.instdat.repo_owner = "MCJack123"
 package.instdat.repo_name = "CC-Archive"

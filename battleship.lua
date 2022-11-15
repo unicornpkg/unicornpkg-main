@@ -1,5 +1,6 @@
 local package = {}
 package.name = "battleship"
+package.desc = "Battleship-style game for ComputerCraft"
 package.instdat = {}
 package.instdat.repo_owner = "MCJack123"
 package.instdat.repo_name = "7082da1d2ac725c33ff77389877ad7f4"

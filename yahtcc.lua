@@ -1,5 +1,6 @@
 local package = {}
 package.name = "yahtcc"
+package.desc = "Program implementing the Yahtzee dice game"
 package.instdat = {}
 package.instdat.repo_owner = "MCJack123"
 package.instdat.repo_name = "4f7f1635998f44630c8440e81213d32e"

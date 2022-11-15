@@ -1,5 +1,6 @@
 local package = {}
 package.name = "tamperer"
+package.desc = "Library for creating settings TUIs"
 package.instdat = {}
 package.instdat.repo_owner = "Fatboychummy-CC"
 package.instdat.repo_name = "Tamperer"

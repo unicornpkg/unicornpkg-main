@@ -1,5 +1,6 @@
 local package = {}
 package.name = "semver"
+package.desc = "Library for manipulating Semantic Versioning version numbers"
 package.version = "1.2.1"
 package.instdat = {}
 package.instdat.repo_owner = "kikito"
