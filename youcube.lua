@@ -13,7 +13,8 @@ package.unicornSpec = "v1.0.0"
 package.rel = {}
 package.rel.depends = {
     "numberformatter",
-    "youcubeapi"
+    "youcubeapi",
+	"semver"
 }
 
 return package
