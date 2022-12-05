@@ -14,7 +14,7 @@ package.rel = {}
 package.rel.depends = {
 	"semver",
 	"youcubeapi",
-	--"basalt" -- TODO: add back in, when unicornpkg has a GitHub releases provider
+	"basalt"
 }
 package.pkgType = "com.github"
 package.unicornSpec = "v1.0.0"
