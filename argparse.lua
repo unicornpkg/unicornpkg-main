@@ -8,7 +8,7 @@ package.instdat.repo_name = "cc-argparse"
 package.instdat.repo_ref = "v0.7.2"
 package.instdat.filemaps = {}
 package.instdat.filemaps["argparse.min.lua"] = "/lib/argparse.lua"
-package.pkgType = "com.github.release "
+package.pkgType = "com.github.release"
 package.unicornSpec = "v1.0.0"
 
 return package
