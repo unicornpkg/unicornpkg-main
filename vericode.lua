@@ -1,6 +1,6 @@
 local package = {}
 package.name = "vericode"
-packge.desc = "Library for implementing code signing"
+package.desc = "Library for implementing code signing"
 package.instdat = {}
 package.instdat.repo_owner = "MCJack123"
 package.instdat.repo_name = "7752c85918bcf23ada028abd615e8750"

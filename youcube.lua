@@ -14,7 +14,8 @@ package.rel = {}
 package.rel.depends = {
     "numberformatter",
     "youcubeapi",
-	"semver"
+    "semver",
+    "argparse"
 }
 
 return package
