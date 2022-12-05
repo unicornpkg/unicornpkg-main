@@ -1,8 +1,8 @@
 -- https://github.com/9551-Dev/programs
 
 local package = {}
-package.name = "graph"
-package.desc = "Library for graphics functions."
+package.name = "brainfuck"
+package.desc = "Brainfuck interpreter with shell and peripheral support"
 package.instdat = {}
 package.instdat.repo_owner = "9551-Dev"
 package.instdat.repo_name = "programs"
