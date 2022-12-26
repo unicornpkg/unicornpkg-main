@@ -15,7 +15,8 @@ package.rel.depends = {
     "numberformatter",
     "youcubeapi",
     "semver",
-    "argparse"
+    "argparse",
+    "string_pack" -- TODO: make optional
 }
 
 return package
