@@ -23,6 +23,7 @@ package.instdat.filemaps["doc/help/giim-mouseControl.txt"] = "/usr/share/help/gi
 package.instdat.filemaps["doc/help/giim-plugins.txt"] = "/usr/share/help/giim-plugins.txt"
 package.instdat.filemaps["doc/help/giim-rulers.txt"] = "/usr/share/help/giim-rulers.txt"
 package.instdat.filemaps["doc/help/giim-nfp.txt"] = "/usr/share/help/giim-nfp.txt"
+package.dirs = { "/lib/giim" }
 package.pkgType = "com.github"
 package.unicornSpec = "v1.0.0"
 

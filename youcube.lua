@@ -12,11 +12,11 @@ package.pkgType = "com.github"
 package.unicornSpec = "v1.0.0"
 package.rel = {}
 package.rel.depends = {
-    "numberformatter",
-    "youcubeapi",
-    "semver",
-    "argparse",
-    "string_pack" -- TODO: make optional
+	"numberformatter",
+	"youcubeapi",
+	"semver",
+	"argparse",
+	"string_pack", -- TODO: make optional
 }
 
 return package

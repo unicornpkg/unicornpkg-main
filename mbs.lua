@@ -10,8 +10,10 @@ package.instdat.repo_name = "mbs"
 package.instdat.repo_ref = "master"
 package.instdat.filemaps = {}
 
-printError('You need to create "/startup/00_mbs.lua" with to content: assert(loadfile("mbs.lua", _ENV))(\'startup\', "mbs.lua")')
-printError('or run /mbs install')
+printError(
+	'You need to create "/startup/00_mbs.lua" with to content: assert(loadfile("mbs.lua", _ENV))(\'startup\', "mbs.lua")'
+)
+printError("or run /mbs install")
 --[[
     TODO: add, when string provider is there and multiple pkgType are there
     Content: assert(loadfile("mbs.lua", _ENV))('startup', "mbs.lua")
