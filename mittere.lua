@@ -7,6 +7,7 @@ package.instdat.repo_owner = "Snowflake-Software"
 package.instdat.repo_name = "mittere"
 package.instdat.repo_ref = "v0.0.0"
 package.instdat.filemaps = {}
+package.instdat.filemaps["mittere.lua"] = "/bin/mittere.lua"
 package.pkgType = "com.github.release"
 package.unicornSpec = "v1.0.0"
 
