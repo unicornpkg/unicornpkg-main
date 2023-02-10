@@ -10,6 +10,8 @@ package.instdat.repo_name = "mbs"
 package.instdat.repo_ref = "master"
 package.instdat.filemaps = {}
 
+error("This package has been disabled.")
+
 printError(
 	'You need to create "/startup/00_mbs.lua" with to content: assert(loadfile("mbs.lua", _ENV))(\'startup\', "mbs.lua")'
 )
