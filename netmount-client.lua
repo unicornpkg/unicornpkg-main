@@ -1,7 +1,7 @@
 local package = {}
 package.name = "netmount"
 package.version = "202308.27.1"
-package.desc = "Websocket-based file transfer system."
+package.desc = "Websocket-based file transfer system. Requires a server."
 package.instdat = {}
 package.instdat.repo_owner = "tmpim"
 package.instdat.repo_name = "netmountcc"
