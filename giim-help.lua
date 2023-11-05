@@ -1,5 +1,3 @@
-fs.makeDir("/lib/giim")
-
 local package = {}
 package.name = "giim-help"
 package.desc = "Help documents for the modular image editor for ComputerCraft"
