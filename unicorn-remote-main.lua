@@ -1,5 +1,6 @@
 local package = {}
 package.name = "unicorn-remote-main"
+package.desc = "Configuration to enable the unicornpkg-main remote"
 package.pkgType = "local.string"
 package.version = "2025.11.13"
 package.instdat = {}
