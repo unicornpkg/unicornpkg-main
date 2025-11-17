@@ -1,0 +1,25 @@
+name: Continuous integration
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  ci:
+    name: Continuous integration
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          submodules: recursive
+      - name: Install Nix
+        uses: cachix/install-nix-action@v31
+        with:
+          extra_nix_config: |
+            experimental-features = nix-command flakes
+            accept-flake-config = true
+      - run: "nix develop .#"
+        name: "Prefetch CI dependencies"
+      - run: nix develop .# --command just ci
+        name: Run `just ci`

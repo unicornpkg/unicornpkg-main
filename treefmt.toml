@@ -1,0 +1,11 @@
+"$schema" = "https://www.schemastore.org/treefmt.json"
+[formatter.stylua]
+command = "stylua"
+includes = ["*.lua"]
+[formatter.taplo]
+command = "taplo"
+options = ["fmt"]
+includes = ["*.toml"]
+[formatter.prettier]
+command = "prettier"
+includes = ["*.yaml", "*.yml", "*.json"]
