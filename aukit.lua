@@ -1,11 +1,11 @@
 local package = {}
 package.name = "aukit"
-package.version = "1.7.0"
+package.version = "1.9.1"
 package.desc = "Audio decoding and processing tools and libraries."
 package.instdat = {}
 package.instdat.repo_owner = "MCJack123"
 package.instdat.repo_name = "AUKit"
-package.instdat.repo_ref = "80b8d070eef7a727f2136de6bbde7cb688d2bb8a"
+package.instdat.repo_ref = package.version
 package.instdat.filemaps = {}
 package.instdat.filemaps["aukit.lua"] = "/lib/aukit.lua"
 package.instdat.filemaps["auplay.lua"] = "/bin/auplay.lua"
