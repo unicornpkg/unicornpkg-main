@@ -11,7 +11,7 @@ package.pkgType = "com.github.gist"
 package.unicornSpec = "v1.0.0"
 package.rel = {}
 package.rel.depends = {
-	"tuttle"
+	"tuttle",
 }
 
 return package

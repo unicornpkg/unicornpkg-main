@@ -8,7 +8,7 @@ package.instdat.repo_ref = "main"
 package.instdat.filemaps = {}
 package.instdat.filemaps["compressed/pixelui.lua"] = "/lib/pixelui.lua"
 rel = {}
-rel.conflicts = {"pixelui"}
+rel.conflicts = { "pixelui" }
 package.pkgType = "com.github"
 package.unicornSpec = "v1.0.0"
 

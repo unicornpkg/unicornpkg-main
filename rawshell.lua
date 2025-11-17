@@ -11,7 +11,7 @@ package.instdat.repo_ref = "18a7aa541e4b31f0634245a81c7aa59352431b1b"
 package.instdat.filemaps = {}
 package.instdat.filemaps["rawshell.lua"] = "/bin/rawshell.lua"
 package.rel = {}
-package.rel.depends = {"rawterm"}
+package.rel.depends = { "rawterm" }
 package.pkgType = "com.github.gist"
 package.unicornSpec = "v1.0.0"
 

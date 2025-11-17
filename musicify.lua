@@ -14,7 +14,7 @@ package.rel = {}
 package.rel.depends = {
 	"semver",
 	"youcubeapi",
-	"basalt"
+	"basalt",
 }
 package.pkgType = "com.github.release"
 package.unicornSpec = "v1.0.0"

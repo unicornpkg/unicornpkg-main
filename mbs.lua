@@ -43,7 +43,6 @@ package.script.postremove = [[
   settings.save()
 ]]
 
-
 package.pkgType = "com.github"
 package.unicornSpec = "v1.0.0"
 
