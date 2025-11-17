@@ -1,7 +1,6 @@
 local package = {}
 package.name = "billboard"
 package.desc = "Simple program to display a BIMG file onto a `term`-capable peripheral"
-package.version = "2022-09-01" -- No versioning scheme is present, so we use an ISO date
 package.instdat = {}
 package.instdat.repo_owner = "MasonGulu"
 package.instdat.repo_name = "27d3ea40830fff6eeab5d47ea5a6a048"
