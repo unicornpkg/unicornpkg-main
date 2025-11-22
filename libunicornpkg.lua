@@ -34,3 +34,5 @@ package.instdat.filemaps["unicorn/remote.lua"] = "/lib/unicorn/remote.lua"
 package.instdat.filemaps["unicorn/util.lua"] = "/lib/unicorn/util.lua"
 package.pkgType = "com.github"
 package.unicornSpec = "v1.0.0"
+
+return package
