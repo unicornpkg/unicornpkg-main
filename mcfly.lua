@@ -1,3 +1,7 @@
+-- SPDX-FileCopyrightText: 2025 Tomodachi94
+--
+-- SPDX-License-Identifier: Apache-2.0
+
 local package = {}
 package.name = "mcfly"
 package.desc = "A very basic test framework for ComputerCraft"

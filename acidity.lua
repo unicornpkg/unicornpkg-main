@@ -1,3 +1,7 @@
+-- SPDX-FileCopyrightText: 2025 Tomodachi94
+--
+-- SPDX-License-Identifier: Apache-2.0
+
 local package = {}
 package.name = "acidity"
 package.desc = "Procedual world generation-oriented noise generation library"

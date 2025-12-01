@@ -1,3 +1,7 @@
+-- SPDX-FileCopyrightText: 2025 Tomodachi94
+--
+-- SPDX-License-Identifier: Apache-2.0
+
 local package = {}
 package.name = "rxi-json"
 package.desc = "A lightweight JSON library for Lua"

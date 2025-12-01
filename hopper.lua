@@ -1,3 +1,7 @@
+-- SPDX-FileCopyrightText: 2025 Tomodachi94
+--
+-- SPDX-License-Identifier: Apache-2.0
+
 local package = {}
 package.name = "hopper"
 package.desc = "The FFmpeg of Minecraft item transportation: move items and fluids from A to B without any hassle"

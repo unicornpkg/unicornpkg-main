@@ -1,3 +1,7 @@
+-- SPDX-FileCopyrightText: 2025 Tomodachi94
+--
+-- SPDX-License-Identifier: Apache-2.0
+
 -- Generated with https://github.com/unicornpkg/easyunicornpkg
 -- https://gist.github.com/MCJack123/4cf6fc941a2d412b4195caafb9636363
 
