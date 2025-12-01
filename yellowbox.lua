@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: 2022 Commandcracker
+
 -- https://gist.github.com/MCJack123/e634347fe7a3025d19d9f7fcf7e01c24
 
 local package = {}

@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: 2022 Commandcracker
+
 -- https://github.com/piguman3/Eliza-in-CC-Tweaked
 
 local package = {}

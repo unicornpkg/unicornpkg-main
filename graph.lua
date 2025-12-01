@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: 2022 Commandcracker
+
 -- https://github.com/4x4x8/graph
 
 local package = {}

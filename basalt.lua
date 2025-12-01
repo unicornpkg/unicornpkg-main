@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: 2022 Commandcracker
+
 -- https://github.com/Pyroxenium/Basalt/
 
 local package = {}

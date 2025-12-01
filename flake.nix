@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2025 Tomodachi94
+#
+# SPDX-License-Identifier: Apache-2.0
 {
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
@@ -25,6 +28,7 @@
             packages = with pkgs; [
               just
               selene
+              reuse
               # formatters
               treefmt
               stylua

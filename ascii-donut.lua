@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: 2022 Commandcracker
+
 -- https://github.com/Commandcracker/CC-spinning-donut
 
 local package = {}
