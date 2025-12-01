@@ -31,8 +31,10 @@ package.instdat.filemaps["unicorn/provider/net/launchpad/git.lua"] = "/lib/unico
 package.instdat.filemaps["unicorn/provider/org/archive.lua"] = "/lib/unicorn/provider/org/archive.lua"
 package.instdat.filemaps["unicorn/provider/org/bitbucket.lua"] = "/lib/unicorn/provider/org/bitbucket.lua"
 package.instdat.filemaps["unicorn/provider/org/codeberg.lua"] = "/lib/unicorn/provider/org/codeberg.lua"
-package.instdat.filemaps["unicorn/provider/org/softwareheritage/FetchContentFromSWHID.graphql"] = "/lib/unicorn/provider/org/softwareheritage/FetchContentFromSWHID.graphql"
-package.instdat.filemaps["unicorn/provider/org/softwareheritage/archive.lua"] = "/lib/unicorn/provider/org/softwareheritage/archive.lua"
+package.instdat.filemaps["unicorn/provider/org/softwareheritage/FetchContentFromSWHID.graphql"] =
+	"/lib/unicorn/provider/org/softwareheritage/FetchContentFromSWHID.graphql"
+package.instdat.filemaps["unicorn/provider/org/softwareheritage/archive.lua"] =
+	"/lib/unicorn/provider/org/softwareheritage/archive.lua"
 package.instdat.filemaps["unicorn/remote.lua"] = "/lib/unicorn/remote.lua"
 package.instdat.filemaps["unicorn/util.lua"] = "/lib/unicorn/util.lua"
 package.pkgType = "com.github"
