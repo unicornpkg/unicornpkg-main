@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: 2023 znepb
+
 local package = {}
 package.name = "cropfarm"
 package.desc = "A simple and destructive farmer for ComputerCraft turtles."

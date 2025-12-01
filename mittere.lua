@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: 2023 znepb
+
 local package = {}
 package.name = "mittere"
 package.desc = "Packaging tools for ComputerCraft"

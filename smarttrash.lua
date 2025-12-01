@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: 2023 znepb
+
 local package = {}
 package.name = "smarttrash"
 package.desc = "Smart trash & composting program"

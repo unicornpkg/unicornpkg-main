@@ -1,3 +1,5 @@
+-- SPDX-FileCopyrightText: 2023 znepb
+
 local package = {}
 package.name = "tuttle"
 package.desc = "A simple and destructive ComputerCraft turtle pathfinding API."
