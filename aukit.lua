@@ -1,3 +1,7 @@
+-- SPDX-FileCopyrightText: 2022, 2023, 2025 Tomodachi94
+--
+-- SPDX-License-Identifier: Apache-2.0
+
 local package = {}
 package.name = "aukit"
 package.version = "1.9.1"
