@@ -8,7 +8,8 @@
 local package = {}
 package.name = "penlight"
 package.version = "1.14.0"
-package.desc = "A set of pure Lua libraries focusing on input data handling (such as reading configuration files), functional programming (such as map, reduce, placeholder expressions,etc), and OS path management.  Much of the functionality is inspired by the Python standard libraries."
+package.desc =
+	"A set of pure Lua libraries focusing on input data handling (such as reading configuration files), functional programming (such as map, reduce, placeholder expressions,etc), and OS path management.  Much of the functionality is inspired by the Python standard libraries."
 package.licensing = "MIT"
 package.instdat = {}
 package.instdat.repo_owner = "lunarmodules"
