@@ -1,8 +1,11 @@
-# SPDX-FileCopyrightText: 2025 Tomodachi94
+# SPDX-FileCopyrightText: 2025, 2026 Tomodachi94
 #
 # SPDX-License-Identifier: Apache-2.0
 
 name: Continuous integration
+
+permissions:
+  contents: read
 
 on:
   push:
