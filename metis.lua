@@ -10,7 +10,6 @@ package.instdat.repo_owner = "SquidDev-CC"
 package.instdat.repo_name = "metis"
 package.instdat.repo_ref = "dev"
 package.instdat.filemaps = {}
-package.instdat.filemaps["src/metis"] = "/lib/metis"
 package.instdat.filemaps["src/metis/argparse.lua"] = "/lib/metis/argparse.lua"
 package.instdat.filemaps["src/metis/async.lua"] = "/lib/metis/async.lua"
 package.instdat.filemaps["src/metis/crypto/sha1.lua"] = "/lib/metis/crypto/sha1.lua"
