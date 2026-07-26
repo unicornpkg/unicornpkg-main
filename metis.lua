@@ -20,6 +20,7 @@ package.instdat.filemaps["src/metis/math.lua"] = "/lib/metis/math.lua"
 package.instdat.filemaps["src/metis/string.lua"] = "/lib/metis/string.lua"
 package.instdat.filemaps["src/metis/string/fuzzy.lua"] = "/lib/metis/string/fuzzy.lua"
 package.instdat.filemaps["src/metis/timer.lua"] = "/lib/metis/timer.lua"
+package.dirs = { "/lib/metis/crypto", "/lib/metis/input", "lib/metis/string", "/lib/metis" }
 package.pkgType = "com.github"
 package.unicornSpec = "v1.0.0"
 
