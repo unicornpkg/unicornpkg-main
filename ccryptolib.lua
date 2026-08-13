@@ -5,7 +5,7 @@
 local package = {}
 package.name = "ccryptolib"
 package.desc = "A collection of cryptographic primitives for CC:Tweaked"
-package.version = "1.2.2"
+package.version = "1.3.0"
 package.instdat = {}
 package.instdat.repo_owner = "migeyel"
 package.instdat.repo_name = "ccryptolib"
